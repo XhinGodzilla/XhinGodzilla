@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XhinGodzilla
 - 👀 I’m interested in Robotics, Mobile Robotics, Automation and artificial intelligence 
 - 🌱 I’m currently learning fuzz logic, Neuronal Networks and Evolutionary Algorithms
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on Robotics and simulations
 - 📫 How to reach me, currently only here 
 - 😄 Pronouns: Atomic Lizard
 - ⚡ Fun fact: i got plenty of hobbies but not the time to spend on.
